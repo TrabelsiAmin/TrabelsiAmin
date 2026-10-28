@@ -1,8 +1,5 @@
-<h1 align="center">Mohamed Amine Trabelsi</h1>
-
 <p align="center">
-  Data & AI engineering student · RAG, computer vision, full-stack<br>
-  <b>Open for a PFE internship in AI / Data, 2027</b>
+  <a href="https://trabelsiamin.github.io/"><img src="banner.png" alt="Mohamed Amine Trabelsi, Data & AI engineering student" width="100%"></a>
 </p>
 
 <p align="center">
